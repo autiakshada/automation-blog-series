@@ -17,8 +17,7 @@ This repository contains:
   - Firefox (GeckoDriver) setup
   - EdgeDriver setup
   - Basic WebDriver methods
-- `images/` – Cover images and screenshots used in blog posts
-
+  
 ---
 
 ## 🔗 Blog Highlights
