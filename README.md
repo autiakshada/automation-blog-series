@@ -5,22 +5,27 @@ This repository contains:
 
 - 📝 Blog posts originally published on [Hashnode](https://hashnode.com/@autiakshada02)
 - 📚 Personal notes on Selenium, Java, and test automation
-- 💻 Sample code and examples using Selenium WebDriver
+- 💻 Sample code and examples using Selenium WebDriver for Chrome, Firefox, and Edge
 
 ---
 
 ## 📌 What You'll Find Here
 
 - `blog-posts/` – Markdown versions of my Hashnode blogs
-- `code-examples/` – Java code for Selenium basics
-- `images/` – Cover images and screenshots (if any)
+- `code-examples/` – Java code for:
+  - ChromeDriver setup
+  - Firefox (GeckoDriver) setup
+  - EdgeDriver setup
+  - Basic WebDriver methods
+- `images/` – Cover images and screenshots used in blog posts
 
 ---
 
 ## 🔗 Blog Highlights
 
-- [Why we write `WebDriver driver = new ChromeDriver();`](./blog-posts/webdriver-explained.md)
-- More coming soon...
+- ✅ [Why we write `WebDriver driver = new ChromeDriver();`](./blog-posts/webdriver-explained.md)
+- ✅ [Run Selenium Tests in Chrome, Firefox & Edge (with Drivers)](./blog-posts/multi-browser-setup.md)
+- 📌 More blog tutorials coming soon...
 
 ---
 
@@ -29,13 +34,13 @@ This repository contains:
 - Selenium WebDriver
 - Java
 - Eclipse IDE
-- TestNG (upcoming)
-- Hashnode (for writing)
+- GeckoDriver / EdgeDriver / ChromeDriver
+- Hashnode for publishing articles
 
 ---
 
 ## 📬 Let's Connect
 
-Follow my blog on [Hashnode](https://hashnode.com/@autiakshada02)  
-📧 Reach out on GitHub for feedback or suggestions!
+✨ Read my blogs on [Hashnode](https://hashnode.com/@autiakshada02)  
+💬 Reach out on GitHub for suggestions, improvements, or code feedback!
 
