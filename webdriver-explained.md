@@ -20,12 +20,14 @@ This blog helps **absolute beginners** get started with **Selenium WebDriver**, 
 ---
 
 👩‍💻 About Me
+
 I’m Akshada Auti, a QA engineer with hands-on experience in manual and automation testing.
 I love writing technical blogs to help testers and developers grow in their journey.
 
 🔗 Follow me on:
 
-Hashnode: @autiakshada02
+Hashnode: [@autiakshada02](https://hashnode.com/@autiakshada02)
+
 
 GitHub: autiakshada
 
